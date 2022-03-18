@@ -1,0 +1,15 @@
+@import "fonts";
+
+body {
+    font-family: Poppins;
+    background-color: #000;
+    background: url("@img/cover.jpg") 0 0 no-repeat;
+    font-size: 50px;
+
+
+    span {
+        display: block;
+        color: red;
+        text-align: center;
+    }
+}
