@@ -1,3 +1,4 @@
+"use strict"
 // Проверка поддержки webpб добавление класса webp или no-webp для HTML
 export function isWebp() {
     //Проверка поддержки webp
