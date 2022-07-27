@@ -9,14 +9,14 @@
     @return $result;
 }
 //TO EM
-@function em($px) {
-    $result: math.div($px, 16) + em;
+@function em($px, $px2:16) {
+    $result: math.div($px, $px2) + em;
     @return $result;
 }
 
 //Адаптивное свойство
 
-@mixin adaptiveValue($property, $startsize, $minSize, $type) {
+@mixin adaptiveValue($property, $startsize, $minSize, $type:null) {
     $addSize: $startsize - $minSize;
     @if $type==1 {
         //Только если меньше контейнера
@@ -35,3 +35,8 @@
         #{$property}: calc(#{$minSize + px} + #{$addSize} * ((100vw - 320px) / #{$maxWidth - 320}));
     }
 }
+
+@function percent($val1, $val2) {
+    $result: math.div(calc($val1*100%), $val2) ;
+    @return $result;
+ }

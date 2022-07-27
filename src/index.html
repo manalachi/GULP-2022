@@ -1,19 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-    @@include('html/_head.html', {
+    @@include('html/_head.htm', {
         "title": "Главная"
     })
 
-<body>
-    @@include('html/_header.htm', {})
+    <!-- <body>
+        @@include('html/_header.htm', {})
+        @@include('html/_popup.htm', {}) -->
 
-    <main>
-        <span>Hello World</span>
-        <img width="250" src="@img/img1.jpg" alt="">
-    </main>
+        <main>
+            <a href="home.html" class="home">HOME</a>
+        </main>
 
-    @@include('html/_footer.htm', {})
-    <script src="js/app.min.js"></script>
-</body>
+        <!-- @@include('html/_footer.htm', {}) -->
+        @@include('html/_js.htm', {})
+        
+    </body>
 
 </html>

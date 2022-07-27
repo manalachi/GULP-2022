@@ -1,0 +1,65 @@
+[33mcommit 9f0da43bc66e3c460dca63b1ee87ff2e2d43dc45[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Serghei Manalachi <d:\The Bat!>
+Date:   Tue May 3 16:39:10 2022 +0300
+
+    add pattern spollers
+
+[33mcommit d4da2cd99f9dfe79fc61afa10481512a5e17753a[m
+Author: Serghei Manalachi <d:\The Bat!>
+Date:   Fri Apr 29 16:18:10 2022 +0300
+
+    Add null.scss
+
+[33mcommit 7ddc4a19d0802e891ded9b47b0649b722eab8cb6[m
+Author: Serghei Manalachi <d:\The Bat!>
+Date:   Thu Apr 7 15:59:16 2022 +0300
+
+    Add Mixins
+
+[33mcommit 6758511e876a5060274d997f777f1ff385adddbf[m
+Author: Serghei Manalachi <d:\The Bat!>
+Date:   Thu Apr 7 12:16:54 2022 +0300
+
+    Pattern Menu Burger
+
+[33mcommit 3f10c7d9c893f0f6796b54b70294324472addfc4[m
+Author: Serghei Manalachi <d:\The Bat!>
+Date:   Thu Mar 31 16:47:01 2022 +0300
+
+    update pattern
+
+[33mcommit 7e15f52a2052affaedc99bd488c720373df0e6b7[m
+Author: Serghei Manalachi <d:\The Bat!>
+Date:   Wed Mar 30 15:31:41 2022 +0300
+
+    add patern icons
+
+[33mcommit a10084e4cc289d54ea69e6135d8947ca2128429c[m
+Author: Serghei Manalachi <d:\The Bat!>
+Date:   Wed Mar 23 16:49:32 2022 +0200
+
+    update pattern scss
+
+[33mcommit f0ecc66b1b8461cadd7912b2355b8596966c0df7[m
+Author: Serghei Manalachi <d:\The Bat!>
+Date:   Wed Mar 23 16:14:43 2022 +0200
+
+    update pattern scss
+
+[33mcommit 0c805f93a57e2ef27a22c50f10bdef3e4ae2da5b[m
+Author: Serghei Manalachi <d:\The Bat!>
+Date:   Tue Mar 22 16:32:30 2022 +0200
+
+    add pattern scss
+
+[33mcommit b4f92b9dfa4893a1b3eec9544a625718f67031b1[m
+Author: Serghei Manalachi <d:\The Bat!>
+Date:   Fri Mar 18 16:43:02 2022 +0200
+
+    update package
+
+[33mcommit c7c8b330c024cdeb4f6c5264792f9b7c50d648d5[m
+Author: Serghei Manalachi <d:\The Bat!>
+Date:   Fri Mar 18 16:09:17 2022 +0200
+
+    add finish pack GULP

@@ -152,3 +152,11 @@ else {
 
 // Подключение стилей spollers
 // @import "./libs/spollers";
+.home {
+    color: #000;
+    font-size: 24px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
